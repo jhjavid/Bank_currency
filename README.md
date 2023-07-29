@@ -1,6 +1,8 @@
 # Bank_currency
 
 Source: https://ieeexplore.ieee.org/document/9844207
+
+
 Abstract:
 In the present banking sector, identifying the real and the fake note is a very challenging task because if we do it manually, it takes a long time to check which is real and which is fake. This research study article aims to authenticate the money between real and fake by using different machine algorithms facilitating learning, such as K-means Clustering, Random Forest Classification, Support Vector Machines, and logistics Regression. Specifically, we consider the banknote dataset. The data of money is extracted from various banknote images by using the wavelet transform tool, which is primarily used to remove elements from the images. However, we are mainly concerned with the different machine learning algorithms, so we take the two variables, where the first variable indicates image variance and the second indicates image skewness. We use these two variables to train our machine learning algorithms. So, majorly, by applying the different machine learning algorithms, which are supervised and unsupervised, we find the accuracy for the respective machine learning algorithms and then visualize and classify the real and fake notes separately. Finally, the prediction is based on integrity, which means the efficiency value is based on how much the mechanism system can uncover the fake notes. Then, after calculating the accuracy of currency authentication, there is a high possibility that the accuracy of the particular algorithm is the best algorithm, so the application of currency authentication will be very useful for the bank to easily find duplicate notes.
 
